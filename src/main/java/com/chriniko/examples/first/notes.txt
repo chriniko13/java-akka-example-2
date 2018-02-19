@@ -1,0 +1,5 @@
+===============
+    NOTES
+===============
+
+1) This example demonstrates the actor state handling via using conditional operators.
